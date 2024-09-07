@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Discount-Calculator/static/css/main.2d1034fe.css",
+    "main.js": "/React-Discount-Calculator/static/js/main.7e9aec10.js",
+    "index.html": "/React-Discount-Calculator/index.html",
+    "main.2d1034fe.css.map": "/React-Discount-Calculator/static/css/main.2d1034fe.css.map",
+    "main.7e9aec10.js.map": "/React-Discount-Calculator/static/js/main.7e9aec10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d1034fe.css",
+    "static/js/main.7e9aec10.js"
+  ]
+}
